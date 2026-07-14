@@ -20,14 +20,7 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 * <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python">Statistics</a><a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-pythonn" target="_blank" rel="noreferrer"> <img src="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python.svg" alt="Statistics" width="25" height="25"/> </a>
 
-##### Python Libraries : 
-* <a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas">Pandas</a><a href="https://github.com/Rahul-kumar9990/Rahul-using-Pandas" target="_blank" rel="noreferrer"> 
 
-* <a href="https://github.com/Rahul-kumar9990/Rahul-using-Numpy">NumPy</a><a href="https://github.com/Rahul-kumar9990/Rahul-using-Numpy" target="_blank" rel="noreferrer"> 
-
-* <a href="https://github.com/Rahul-kumar9990/matplotlib-for-visualization">Matplotlib</a><a href="https://github.com/Rahul-kumar9990/matplotlib-for-visualization" target="_blank" rel="noreferrer">
-
-* <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
 
 
 <h2 align="left">Certifications 📜 🎓 ✔️</h2>
@@ -79,6 +72,12 @@ Python has a number of libraries, like :
 |**Python Project 3**| GeoInsights-Regional Sales Analytics and BI Dashboard | [Project](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard) |
 
 
+<h2 align="left">Certifications 📜 🎓 ✔️</h2>
+
+- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
+ 
+- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
+  
 
 ### YouTube Channels:
 
