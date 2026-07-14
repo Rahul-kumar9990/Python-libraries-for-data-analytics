@@ -53,7 +53,7 @@ Python has a number of libraries, like :
  
 <h2 align="left">Certifications 📜 🎓 </h2>
 
-- [Data Analysis with Python]() - by 
+- [Data Analytics with AI Tools]() - by Codings Blocks
 
  
 
