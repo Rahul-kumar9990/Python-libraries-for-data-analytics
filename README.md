@@ -18,32 +18,7 @@ Making use of the Python Standard Library is not enough for many developers beca
 
 * <a href="https://github.com/Rahul-kumar9990/Python-Roadmap">Python</a> <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
-* <a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python">Statistics</a><a href="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-pythonn" target="_blank" rel="noreferrer"> <img src="https://github.com/Rahul-kumar9990/Statistics-for-data-analytics-using-python.svg" alt="Statistics" width="25" height="25"/> </a>
-
-
-
-
-<h2 align="left">Certifications 📜 🎓 ✔️</h2>
-
-- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
- 
-- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
-
-
-
-
-## Featured projects:question: 👨‍💻 🛰️
-
-<code>[RetailPulse-Customer Analytics & Relational SQL Pipeline](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)</code>  
-
-<code>[MarketLens-Consumer Spending and Engagement Dashboard](https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard)</code> 
-
-<code>[GeoInsights-Regional Sales Analytics and BI Dashboard](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard)</code>   
-
-<code>[Dining Demand & Revenue Optimizer](https://github.com/Rahul-kumar9990/Dining-Demand-Revenue-Optimizer)</code> 
-
- 
-## Python Libraries for Data Analysis and Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
+## Python Libraries for Data Analysis and Data Science <a href="https://github.com/Rahul-kumar9990/Python-Roadmap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
 
 Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks more quickly and efficiently.
 
@@ -61,24 +36,10 @@ Python has a number of libraries, like :
 |4| Seaborn |  :white_check_mark: |
 |5| Scikit Learn | :white_check_mark:  |
 
-
-
-### Projects in Python
-
-|**Sr.No. 🔢**|**Projects 👨‍💻**| **Reference Links :link:**|
-|------|--------------------|---------------------|
-|**Python Project 1**| RetailPulse-Customer Analytics & Relational SQL Pipeline | [Project](https://github.com/Rahul-kumar9990/RetailPulse-Customer-Analytics-Relational-SQL-Pipeline)  |
-|**Python Project 2**| MarketLens-Consumer Spending and Engagement Dashboard | [Project](https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard) |
-|**Python Project 3**| GeoInsights-Regional Sales Analytics and BI Dashboard | [Project](https://github.com/Rahul-kumar9990/GeoInsights-Regional-Sales-Analytics-and-BI-Dashboard) |
-
-
 <h2 align="left">Certifications 📜 🎓 ✔️</h2>
 
-- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
+- [Data Analysis with Python]() - by IBM
  
-- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
-  
-
 ### YouTube Channels:
 
 [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), 
